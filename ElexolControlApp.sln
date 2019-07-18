@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElexolControlApp", "ElexolControlApp\ElexolControlApp.csproj", "{504CDCAD-76FF-419F-B0AF-E45D2FEBACDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElexolSwitchApp", "ElexolSwitchApp\ElexolSwitchApp\ElexolSwitchApp.csproj", "{783A41BB-0240-4963-A3B8-8ADB62CFCFA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EleXolIO24RApi", "EleXolIO24RApi\EleXolIO24RApi.csproj", "{4B7CB16E-542E-48E3-8F41-6534E54F124C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504CDCAD-76FF-419F-B0AF-E45D2FEBACDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504CDCAD-76FF-419F-B0AF-E45D2FEBACDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504CDCAD-76FF-419F-B0AF-E45D2FEBACDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504CDCAD-76FF-419F-B0AF-E45D2FEBACDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783A41BB-0240-4963-A3B8-8ADB62CFCFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783A41BB-0240-4963-A3B8-8ADB62CFCFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783A41BB-0240-4963-A3B8-8ADB62CFCFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783A41BB-0240-4963-A3B8-8ADB62CFCFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B7CB16E-542E-48E3-8F41-6534E54F124C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7CB16E-542E-48E3-8F41-6534E54F124C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7CB16E-542E-48E3-8F41-6534E54F124C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7CB16E-542E-48E3-8F41-6534E54F124C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C439819B-8724-4FD6-A132-39580A29464D}
+	EndGlobalSection
+EndGlobal
